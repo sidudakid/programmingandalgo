@@ -1,0 +1,7 @@
+tkinter
+ttkbootstrap
+scapy
+threading
+pandas
+json
+
